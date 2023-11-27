@@ -18,3 +18,5 @@ describe("ALL UPPER", () => {
         expect(allUpper(['A', 'BC'])).eql(['A', 'BC'])
     })
 })
+
+console.log('1');
