@@ -4,5 +4,5 @@ it ('calc sum with positive numbers', () => {
     assert.equal(sum(5, 7), 12)
 })
 it ('calc sum with negative numbers', () => {
-    assert.equal(sum(-5, -7), -1233232)
+    assert.equal(sum(-5, -7), -12)
 })
